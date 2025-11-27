@@ -1,7 +1,7 @@
 {
   "name": "LABOSSE",
   "symbol": "LABOSSE",
-  "description": "Le token officiel du projet BOSSE — humour, mèmes et vérité décentralisée.",
+  "description": "Le token officiel du projet LABOSSE — humour, mèmes et vérité décentralisée.",
   "image": "https://raw.githubusercontent.com/BOSSEcoin/token-list/main/assets/mainnet/9V1twZazRXxkfESvoibY35Y92Nurpeu2dfiXqB7M36Y4/logo.png",
   "extensions": {
     "twitter": "https://x.com/TheBOSSEcoin",
@@ -9,3 +9,4 @@
   }
 
 }
+
